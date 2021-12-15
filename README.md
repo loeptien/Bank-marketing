@@ -8,6 +8,6 @@ S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of
 
 
 Installation and Usage
-- Download the [data] (https://www.kaggle.com/impapan/bank-marketing-dataset).
+- Download the [data](https://www.kaggle.com/impapan/bank-marketing-dataset).
 - Copy the Jupyter Notebook to your computer.
 - Run the Jupyter Notebook. Make sure that the relevant modules are installed (as listed in requirements.txt).
